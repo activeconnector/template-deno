@@ -1,7 +1,5 @@
 # template-deno
 
-The template repository for Deno projects in Active Connector.
-
 <!-- deno-fmt-ignore-start -->
 
 ![Test](https://github.com/activeconnector/template-deno/actions/workflows/ci.yml/badge.svg)
@@ -10,7 +8,7 @@ The template repository for Deno projects in Active Connector.
 
 <!-- deno-fmt-ignore-end -->
 
-A template for Deno projects. Only depends on Deno.
+The template repository for Deno projects in Active Connector.
 
 ## :magic_wand: Features
 
