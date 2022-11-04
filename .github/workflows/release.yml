@@ -26,4 +26,3 @@ jobs:
           https://deno.land/x/denomantic_release@0.6.1/main.ts
           ${{ github.repository }}
           --token ${{ secrets.GITHUB_TOKEN }}
-          --user-token ${{ secrets.GH_TOKEN }}
