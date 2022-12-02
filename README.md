@@ -4,7 +4,7 @@
 
 ![Test](https://github.com/activeconnector/template-deno/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/activeconnector/template-deno/branch/main/graph/badge.svg)](https://codecov.io/gh/activeconnector/template-deno)
-![denoland/deno](https://img.shields.io/badge/Deno-v1.28.2-informational?logo=deno) <!-- @denopendabot denoland/deno -->
+![denoland/deno](https://img.shields.io/badge/Deno-v1.28.3-informational?logo=deno) <!-- @denopendabot denoland/deno -->
 
 <!-- deno-fmt-ignore-end -->
 
